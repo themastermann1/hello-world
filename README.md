@@ -1,2 +1,4 @@
 # hello-world
-Just learning
+Just learning.
+
+My name is simon and this is my GitHub.
